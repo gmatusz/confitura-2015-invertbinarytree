@@ -1,3 +1,7 @@
+## Solution
+
+pl.gmatusz.confitura2015.viacom.binarytree.TreeNodeUtils.invert(TreeNode root)
+
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
 ## Invert a Binary Tree
 
